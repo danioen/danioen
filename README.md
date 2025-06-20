@@ -14,7 +14,7 @@ Olá! Sou estudante de Sistemas de Informação, apaixonada por tecnologia, lóg
 <h3 align="left">My Stack ~</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
-  <img align="center" alt="Dani-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Dani-Ft" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
           
 </div>
 
@@ -24,8 +24,8 @@ Olá! Sou estudante de Sistemas de Informação, apaixonada por tecnologia, lóg
   <h3>* GitHub Stats *</h3>
   <br>
 <a href-"https://github.com/danioen">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=danioen&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danioen&layout=compact&langs_count=16&theme=jolly"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=danioen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="150cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danioen&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 
