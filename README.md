@@ -25,13 +25,11 @@ Olá! Sou estudante de Sistemas de Informação, apaixonada por tecnologia, lóg
 
 ##
 
-</div>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danioen/danioen/output/github-contribution-grid-main-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danioen/danioen/output/github-contribution-grid-main.svg">
-  <img alt="snake" src="https://raw.githubusercontent.com/danioen/danioen/output/github-contribution-grid-main.svg">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danioen/danioen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danioen/danioen/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danioen/danioen/output/github-contribution-grid-snake.svg">
 </picture>
-</div>
 
 
 
