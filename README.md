@@ -23,9 +23,10 @@ Olá! Sou estudante de Sistemas de Informação, apaixonada por tecnologia, lóg
  <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
+ </div>
 <a href-"https://github.com/danioen">
-<img height="120cm" src="https://github-readme-stats.vercel.app/api?username=danioen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<img height="110cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danioen&layout=compact&langs_count=16&theme=dracula"/>
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?username=danioen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="130cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danioen&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 
