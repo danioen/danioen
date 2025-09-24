@@ -15,7 +15,15 @@ Olá! Sou estudante de Sistemas de Informação, apaixonada por tecnologia, lóg
 <div style="display: inline_block"><br>
   <img align="center" alt="Dani-Jv" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
   <img align="center" alt="Dani-Ft" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
-  <img align="center" alt="Dani-Sql" height ="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" alt="Dani-Sql" height ="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" /> 
+  <img align="center" alt="Dani-Rc" height ="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
+          
+
+         
+ 
+            
+          
+          
 
                     
 </div>
