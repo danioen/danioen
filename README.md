@@ -1,6 +1,6 @@
 ## Oii! Pode me chamar de Dani
 
-Olá! Sou estudante de Sistemas de Informação, apaixonada por tecnologia, lógica e soluções criativas. Atualmente, estou me aprofundando em Java, linguagem na qual já desenvolvi diversos projetos acadêmicos. No entanto, estou sempre em busca de aprender novas linguagens e explorar diferentes áreas da programação, do front-end ao back-end. 
+Olá! Sou estudante de Sistemas de Informação futura desenvolvedora full-stack, apaixonada por tecnologia, lógica e soluções criativas. Atualmente, estou me aprofundando em Java, linguagem na qual já desenvolvi diversos projetos acadêmicos. No entanto, estou sempre em busca de aprender novas linguagens e explorar diferentes áreas da programação, do front-end ao back-end. 
 
 ## <h3 align="left">Connects with me!</h3>
 
